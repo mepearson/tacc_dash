@@ -1,0 +1,14 @@
+
+version: '3'
+services:
+  app:
+    image: mintproject/dash-viz:latest
+    env_file:
+     - .env
+    build:
+      context: .
+      dockerfile: docker/flask/Dockerfile
+    ports:
+      - 10002:8080
+    expose:
+      - 8080
