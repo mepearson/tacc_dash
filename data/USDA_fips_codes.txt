@@ -1,4 +1,3 @@
-
 USDA FIPS code information from https://www.nrcs.usda.gov/wps/portal/nrcs/detail/?cid=nrcs143_013696
 Name	Postal Code	FIPS
 Alabama	AL	01
