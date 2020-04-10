@@ -1,0 +1,255 @@
+,County,FIPS,County #,Public Health Region (11),Health Service Region (8),Metropolitan Statistical Area (MSA),Metropolitan Divisions (MD),Metro Area (82),NCHS Urban Rural Classification (2006),NCHS Urban Rural Classification (2013),Border 32 (La Paz Agreement),Border 15,State,Population,Estimate Total households,Margin of Error Total households
+0,Anderson,48001.0,1.0,4.0,4/5N,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,57735,16459,461
+1,Andrews,48003.0,2.0,9.0,9/10,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,18705,5508,212
+2,Angelina,48005.0,3.0,5.0,4/5N,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,86715,30783,467
+3,Aransas,48007.0,4.0,11.0,11,Corpus Christi,--,Metro,Medium Metro,Medium Metro,Non-Border,Non-Border,Texas,23510,9432,563
+4,Archer,48009.0,5.0,2.0,2/3,Wichita Falls,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border,Texas,8553,3332,122
+5,Armstrong,48011.0,6.0,1.0,1,Amarillo,--,Metro,Small Metro,Medium Metro,Non-Border,Non-Border,Texas,1887,708,58
+6,Atascosa,48013.0,7.0,8.0,8,San Antonio-New Braunfels,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border,Texas,51153,15387,351
+7,Austin,48015.0,8.0,6.0,6/5S,Houston-The Woodlands-Sugar Land,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border,Texas,30032,11041,319
+8,Bailey,48017.0,9.0,1.0,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,7000,2111,192
+9,Bandera,48019.0,10.0,8.0,8,San Antonio-New Braunfels,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border,Texas,23112,8242,317
+10,Bastrop,48021.0,11.0,7.0,7,Austin-Round Rock,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border,Texas,88723,25345,626
+11,Baylor,48023.0,12.0,2.0,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,3509,1474,121
+12,Bee,48025.0,13.0,11.0,11,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,32565,8537,340
+13,Bell,48027.0,14.0,7.0,7,Killeen-Temple,--,Metro,Medium Metro,Medium Metro,Non-Border,Non-Border,Texas,362924,120241,1216
+14,Bexar,48029.0,15.0,8.0,8,San Antonio-New Braunfels,--,Metro,Large Central Metro,Large Central Metro,Non-Border,Non-Border,Texas,2003554,632574,2183
+15,Blanco,48031.0,16.0,7.0,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,11931,4297,206
+16,Borden,48033.0,17.0,9.0,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,654,261,47
+17,Bosque,48035.0,18.0,7.0,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,18685,7088,232
+18,Bowie,48037.0,19.0,4.0,4/5N,Texarkana,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border,Texas,93245,33731,556
+19,Brazoria,48039.0,20.0,6.0,6/5S,Houston-The Woodlands-Sugar Land,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border,Texas,374264,118762,1001
+20,Brazos,48041.0,21.0,7.0,7,College Station-Bryan,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border,Texas,229211,79053,871
+21,Brewster,48043.0,22.0,10.0,9/10,--,--,Non-Metro,Noncore,Non-core,Border,Border,Texas,9203,3942,234
+22,Briscoe,48045.0,23.0,1.0,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,1546,632,60
+23,Brooks,48047.0,24.0,11.0,11,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border,Texas,7093,2052,180
+24,Brown,48049.0,25.0,2.0,2/3,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,37864,14016,324
+25,Burleson,48051.0,26.0,7.0,7,College Station-Bryan,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border,Texas,18443,6754,257
+26,Burnet,48053.0,27.0,7.0,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,48155,16849,602
+27,Caldwell,48055.0,28.0,7.0,7,Austin-Round Rock,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border,Texas,43664,13225,365
+28,Calhoun,48057.0,29.0,8.0,8,--,--,Non-Metro,Small Metro,Micropolitan,Non-Border,Non-Border,Texas,21290,7604,363
+29,Callahan,48059.0,30.0,2.0,2/3,Abilene,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border,Texas,13943,5319,218
+30,Cameron,48061.0,31.0,11.0,11,Brownsville-Harlingen,--,Metro,Medium Metro,Medium Metro,Border,Border,Texas,423163,123185,912
+31,Camp,48063.0,32.0,4.0,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,13094,4692,183
+32,Carson,48065.0,33.0,1.0,1,Amarillo,--,Metro,Small Metro,Medium Metro,Non-Border,Non-Border,Texas,5926,2247,90
+33,Cass,48067.0,34.0,4.0,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,30026,11789,360
+34,Castro,48069.0,35.0,1.0,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,7530,2532,141
+35,Chambers,48071.0,36.0,6.0,6/5S,Houston-The Woodlands-Sugar Land,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border,Texas,43837,13529,344
+36,Cherokee,48073.0,37.0,4.0,4/5N,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,52646,17940,402
+37,Childress,48075.0,38.0,1.0,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,7306,2235,206
+38,Clay,48077.0,39.0,2.0,2/3,Wichita Falls,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border,Texas,10471,4045,169
+39,Cochran,48079.0,40.0,1.0,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,2853,996,74
+40,Coke,48081.0,41.0,9.0,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,3387,1617,85
+41,Coleman,48083.0,42.0,2.0,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,8175,3460,192
+42,Collin,48085.0,43.0,3.0,2/3,Dallas-Fort Worth-Arlington,Dallas-Plano-Irving MD,Metro,Large Fringe Metro,Large Central Metro,Non-Border,Non-Border,Texas,1034730,331336,1523
+43,Collingsworth,48087.0,44.0,1.0,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,2920,1055,78
+44,Colorado,48089.0,45.0,6.0,6/5S,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,21493,7511,312
+45,Comal,48091.0,46.0,8.0,8,San Antonio-New Braunfels,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border,Texas,156209,48903,629
+46,Comanche,48093.0,47.0,2.0,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,13635,5260,240
+47,Concho,48095.0,48.0,9.0,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,2726,873,95
+48,Cooke,48097.0,49.0,3.0,2/3,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,41257,15368,292
+49,Coryell,48099.0,50.0,7.0,7,Killeen-Temple,--,Metro,Medium Metro,Medium Metro,Non-Border,Non-Border,Texas,75951,22314,616
+50,Cottle,48101.0,51.0,2.0,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,1398,686,89
+51,Crane,48103.0,52.0,9.0,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,4797,1422,80
+52,Crockett,48105.0,53.0,9.0,9/10,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border,Texas,3464,1388,151
+53,Crosby,48107.0,54.0,1.0,1,Lubbock,--,Metro,Medium Metro,Medium Metro,Non-Border,Non-Border,Texas,5737,2044,107
+54,Culberson,48109.0,55.0,10.0,9/10,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border,Texas,2171,681,116
+55,Dallam,48111.0,56.0,1.0,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,7287,2404,196
+56,Dallas,48113.0,57.0,3.0,2/3,Dallas-Fort Worth-Arlington,Dallas-Plano-Irving MD,Metro,Large Central Metro,Large Central Metro,Non-Border,Non-Border,Texas,2635516,917276,2581
+57,Dawson,48115.0,58.0,9.0,9/10,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,12728,4322,185
+58,Deaf Smith,48117.0,59.0,1.0,1,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,18546,6139,158
+59,Delta,48119.0,60.0,4.0,4/5N,--,--,Non-Metro,Large Fringe Metro,Non-core,Non-Border,Non-Border,Texas,5331,2015,97
+60,Denton,48121.0,61.0,3.0,2/3,Dallas-Fort Worth-Arlington,Dallas-Plano-Irving MD,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border,Texas,887207,283250,1195
+61,DeWitt,48123.0,62.0,8.0,8,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,20160,7088,250
+62,Dickens,48125.0,63.0,1.0,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,2211,842,78
+63,Dimmit,48127.0,64.0,8.0,8,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border,Texas,10124,3309,230
+64,Donley,48129.0,65.0,1.0,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,3278,1290,87
+65,Duval,48131.0,66.0,11.0,11,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border,Texas,11157,3511,224
+66,Eastland,48133.0,67.0,2.0,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,18360,6460,337
+67,Ector,48135.0,68.0,9.0,9/10,Odessa,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border,Texas,166223,51954,525
+68,Edwards,48137.0,69.0,8.0,8,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border,Texas,1932,686,108
+69,Ellis,48139.0,70.0,3.0,2/3,Dallas-Fort Worth-Arlington,Dallas-Plano-Irving MD,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border,Texas,184826,55840,543
+70,El Paso,48141.0,71.0,10.0,9/10,El Paso,--,Metro,Medium Metro,Medium Metro,Border,Border,Texas,839238,265724,1266
+71,Erath,48143.0,72.0,3.0,2/3,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,42698,13961,471
+72,Falls,48145.0,73.0,7.0,7,Waco,--,Metro,Noncore,Medium Metro,Non-Border,Non-Border,Texas,17297,5237,238
+73,Fannin,48147.0,74.0,3.0,2/3,--,--,Non-Metro,Micropolitan,Non-core,Non-Border,Non-Border,Texas,35514,12231,378
+74,Fayette,48149.0,75.0,7.0,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,25346,9067,366
+75,Fisher,48151.0,76.0,2.0,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,3830,1649,103
+76,Floyd,48153.0,77.0,1.0,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,5712,2328,118
+77,Foard,48155.0,78.0,2.0,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,1155,557,71
+78,Fort Bend,48157.0,79.0,6.0,6/5S,Houston-The Woodlands-Sugar Land,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border,Texas,811688,230381,1336
+79,Franklin,48159.0,80.0,4.0,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,10725,3806,269
+80,Freestone,48161.0,81.0,7.0,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,19717,6865,222
+81,Frio,48163.0,82.0,8.0,8,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border,Texas,20306,4624,327
+82,Gaines,48165.0,83.0,9.0,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,21492,5737,184
+83,Galveston,48167.0,84.0,6.0,6/5S,Houston-The Woodlands-Sugar Land,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border,Texas,342139,119181,1214
+84,Garza,48169.0,85.0,1.0,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,6229,1628,164
+85,Gillespie,48171.0,86.0,8.0,8,--,--,Non-Metro,Noncore,Micropolitan,Non-Border,Non-Border,Texas,26988,10717,368
+86,Glasscock,48173.0,87.0,9.0,9/10,--,--,Non-Metro,Noncore,Micropolitan,Non-Border,Non-Border,Texas,1409,432,53
+87,Goliad,48175.0,88.0,8.0,8,Victoria,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border,Texas,7658,2681,186
+88,Gonzales,48177.0,89.0,8.0,8,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,20837,7214,215
+89,Gray,48179.0,90.0,1.0,1,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,21886,8000,261
+90,Grayson,48181.0,91.0,3.0,2/3,Sherman-Denison,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border,Texas,136212,47957,627
+91,Gregg,48183.0,92.0,4.0,4/5N,Longview,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border,Texas,123945,45532,772
+92,Grimes,48185.0,93.0,7.0,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,28880,8793,345
+93,Guadalupe,48187.0,94.0,8.0,8,San Antonio-New Braunfels,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border,Texas,166847,53107,587
+94,Hale,48189.0,95.0,1.0,1,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,33406,11146,283
+95,Hall,48191.0,96.0,1.0,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,2964,1301,84
+96,Hamilton,48193.0,97.0,7.0,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,8461,3108,204
+97,Hansford,48195.0,98.0,1.0,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,5399,1855,137
+98,Hardeman,48197.0,99.0,2.0,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,3933,1519,100
+99,Hardin,48199.0,100.0,5.0,6/5S,Beaumont-Port Arthur,--,Metro,Medium Metro,Medium Metro,Non-Border,Non-Border,Texas,57602,20385,464
+100,Harris,48201.0,101.0,6.0,6/5S,Houston-The Woodlands-Sugar Land,--,Metro,Large Central Metro,Large Central Metro,Non-Border,Non-Border,Texas,4713325,1583486,4133
+101,Harrison,48203.0,102.0,4.0,4/5N,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,66553,23217,607
+102,Hartley,48205.0,103.0,1.0,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,5576,1681,121
+103,Haskell,48207.0,104.0,2.0,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,5658,2125,153
+104,Hays,48209.0,105.0,7.0,7,Austin-Round Rock,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border,Texas,230191,70881,615
+105,Hemphill,48211.0,106.0,1.0,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,3819,1323,73
+106,Henderson,48213.0,107.0,4.0,4/5N,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,82737,30885,621
+107,Hidalgo,48215.0,108.0,11.0,11,McAllen-Edinburgh-Mission,--,Metro,Medium Metro,Medium Metro,Border,Border,Texas,868707,234879,1664
+108,Hill,48217.0,109.0,7.0,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,36649,12769,283
+109,Hockley,48219.0,110.0,1.0,1,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,23021,7946,197
+110,Hood,48221.0,111.0,3.0,2/3,Dallas-Fort Worth-Arlington,Fort Worth-Arlington MD,Metro,Micropolitan,Large Fringe Metro,Non-Border,Non-Border,Texas,61643,21969,443
+111,Hopkins,48223.0,112.0,4.0,4/5N,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,37084,13405,267
+112,Houston,48225.0,113.0,5.0,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,22968,8209,329
+113,Howard,48227.0,114.0,9.0,9/10,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,36664,11036,365
+114,Hudspeth,48229.0,115.0,10.0,9/10,El Paso,--,Metro,Noncore,Medium Metro,Border,Border,Texas,4886,900,108
+115,Hunt,48231.0,116.0,3.0,2/3,Dallas-Fort Worth-Arlington,Dallas-Plano-Irving MD,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border,Texas,98594,32369,505
+116,Hutchinson,48233.0,117.0,1.0,1,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,20938,7191,300
+117,Irion,48235.0,118.0,9.0,9/10,San Angelo,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border,Texas,1536,634,53
+118,Jack,48237.0,119.0,2.0,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,8935,3160,178
+119,Jackson,48239.0,120.0,8.0,8,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,14760,5237,222
+120,Jasper,48241.0,121.0,5.0,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,35529,12583,373
+121,Jeff Davis,48243.0,122.0,10.0,9/10,--,--,Non-Metro,Noncore,Non-core,Border,Border,Texas,2274,1050,140
+122,Jefferson,48245.0,123.0,5.0,6/5S,Beaumont-Port Arthur,--,Metro,Medium Metro,Medium Metro,Non-Border,Non-Border,Texas,251565,94002,941
+123,Jim Hogg,48247.0,124.0,11.0,11,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border,Texas,5200,1710,200
+124,Jim Wells,48249.0,125.0,11.0,11,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,40482,13043,381
+125,Johnson,48251.0,126.0,3.0,2/3,Dallas-Fort Worth-Arlington,Fort Worth-Arlington MD,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border,Texas,175817,56433,488
+126,Jones,48253.0,127.0,2.0,2/3,Abilene,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border,Texas,20083,5593,319
+127,Karnes,48255.0,128.0,8.0,8,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,15601,4246,227
+128,Kaufman,48257.0,129.0,3.0,2/3,Dallas-Fort Worth-Arlington,Dallas-Plano-Irving MD,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border,Texas,136154,37364,521
+129,Kendall,48259.0,130.0,8.0,8,San Antonio-New Braunfels,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border,Texas,47431,14159,286
+130,Kenedy,48261.0,131.0,11.0,11,--,--,Non-Metro,Micropolitan,Micropolitan,Border,Non-Border,Texas,404,209,56
+131,Kent,48263.0,132.0,2.0,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,762,318,44
+132,Kerr,48265.0,133.0,8.0,8,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,52600,20766,445
+133,Kimble,48267.0,134.0,9.0,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,4337,1948,143
+134,King,48269.0,135.0,1.0,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,272,91,21
+135,Kinney,48271.0,136.0,8.0,8,--,--,Non-Metro,Noncore,Non-core,Border,Border,Texas,3667,1170,167
+136,Kleberg,48273.0,137.0,11.0,11,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,30680,10946,396
+137,Knox,48275.0,138.0,2.0,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,3664,1330,104
+138,Lamar,48277.0,139.0,4.0,4/5N,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,49859,19313,384
+139,Lamb,48279.0,140.0,1.0,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,12893,4754,171
+140,Lampasas,48281.0,141.0,7.0,7,Killeen-Temple,--,Metro,Medium Metro,Medium Metro,Non-Border,Non-Border,Texas,21428,7738,248
+141,La Salle,48283.0,142.0,8.0,8,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border,Texas,7520,2216,198
+142,Lavaca,48285.0,143.0,8.0,8,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,20154,7756,257
+143,Lee,48287.0,144.0,7.0,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,17239,6104,220
+144,Leon,48289.0,145.0,7.0,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,17404,6249,374
+145,Liberty,48291.0,146.0,6.0,6/5S,Houston-The Woodlands-Sugar Land,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border,Texas,88219,26203,597
+146,Limestone,48293.0,147.0,7.0,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,23437,8169,244
+147,Lipscomb,48295.0,148.0,1.0,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,3233,1256,88
+148,Live Oak,48297.0,149.0,11.0,11,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,12207,3675,243
+149,Llano,48299.0,150.0,7.0,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,21795,8491,401
+150,Loving,48301.0,151.0,9.0,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,169,33,13
+151,Lubbock,48303.0,152.0,1.0,1,Lubbock,--,Metro,Medium Metro,Medium Metro,Non-Border,Non-Border,Texas,310569,112185,1202
+152,Lynn,48305.0,153.0,1.0,1,Lubbock,--,Metro,Noncore,Medium Metro,Non-Border,Non-Border,Texas,5951,2133,97
+153,McCulloch,48307.0,154.0,9.0,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,7984,3255,189
+154,McLennan,48309.0,155.0,7.0,7,Waco,--,Metro,Small Metro,Medium Metro,Non-Border,Non-Border,Texas,256623,89034,829
+155,McMullen,48311.0,156.0,11.0,11,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border,Texas,743,223,56
+156,Madison,48313.0,157.0,7.0,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,14284,4201,196
+157,Marion,48315.0,158.0,4.0,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,9854,4459,220
+158,Martin,48317.0,159.0,9.0,9/10,Midland,--,Metro,Noncore,Small Metro,Non-Border,Non-Border,Texas,5771,1626,87
+159,Mason,48319.0,160.0,9.0,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,4274,1667,142
+160,Matagorda,48321.0,161.0,6.0,6/5S,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,36643,13636,450
+161,Maverick,48323.0,162.0,8.0,8,--,--,Non-Metro,Micropolitan,Micropolitan,Border,Border,Texas,58722,16307,357
+162,Medina,48325.0,163.0,8.0,8,San Antonio-New Braunfels,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border,Texas,51584,15470,409
+163,Menard,48327.0,164.0,9.0,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,2138,992,119
+164,Midland,48329.0,165.0,9.0,9/10,Midland,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border,Texas,176832,55980,623
+165,Milam,48331.0,166.0,7.0,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,24823,9381,312
+166,Mills,48333.0,167.0,7.0,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,4873,1750,148
+167,Mitchell,48335.0,168.0,2.0,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,8545,2441,234
+168,Montague,48337.0,169.0,2.0,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,19818,7995,279
+169,Montgomery,48339.0,170.0,6.0,6/5S,Houston-The Woodlands-Sugar Land,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border,Texas,607391,192823,1414
+170,Moore,48341.0,171.0,1.0,1,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,20940,6626,250
+171,Morris,48343.0,172.0,4.0,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,12388,5048,192
+172,Motley,48345.0,173.0,1.0,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,1200,465,59
+173,Nacogdoches,48347.0,174.0,5.0,4/5N,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,65204,23904,465
+174,Navarro,48349.0,175.0,3.0,2/3,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,50113,17397,389
+175,Newton,48351.0,176.0,5.0,4/5N,Beaumont-Port Arthur,--,Metro,Noncore,Medium Metro,Non-Border,Non-Border,Texas,13595,4978,290
+176,Nolan,48353.0,177.0,2.0,2/3,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,14714,5469,229
+177,Nueces,48355.0,178.0,11.0,11,Corpus Christi,--,Metro,Medium Metro,Medium Metro,Non-Border,Non-Border,Texas,362294,128926,1128
+178,Ochiltree,48357.0,179.0,1.0,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,9836,3443,163
+179,Oldham,48359.0,180.0,1.0,1,Amarillo,--,Metro,Noncore,Medium Metro,Non-Border,Non-Border,Texas,2112,527,151
+180,Orange,48361.0,181.0,5.0,6/5S,Beaumont-Port Arthur,--,Metro,Medium Metro,Medium Metro,Non-Border,Non-Border,Texas,83396,31989,581
+181,Palo Pinto,48363.0,182.0,3.0,2/3,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,29189,10312,351
+182,Panola,48365.0,183.0,4.0,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,23194,8827,313
+183,Parker,48367.0,184.0,3.0,2/3,Dallas-Fort Worth-Arlington,Fort Worth-Arlington MD,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border,Texas,142878,44255,636
+184,Parmer,48369.0,185.0,1.0,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,9605,3318,120
+185,Pecos,48371.0,186.0,9.0,9/10,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border,Texas,15823,4557,210
+186,Polk,48373.0,187.0,5.0,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,51353,17803,502
+187,Potter,48375.0,188.0,1.0,1,Amarillo,--,Metro,Small Metro,Medium Metro,Non-Border,Non-Border,Texas,117415,43944,551
+188,Presidio,48377.0,189.0,10.0,9/10,--,--,Non-Metro,Noncore,Non-core,Border,Border,Texas,6704,2627,190
+189,Rains,48379.0,190.0,4.0,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,12514,4331,174
+190,Randall,48381.0,191.0,1.0,1,Amarillo,--,Metro,Small Metro,Medium Metro,Non-Border,Non-Border,Texas,137713,49187,521
+191,Reagan,48383.0,192.0,9.0,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,3849,1147,94
+192,Real,48385.0,193.0,8.0,8,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border,Texas,3452,1227,155
+193,Red River,48387.0,194.0,4.0,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,12023,5048,274
+194,Reeves,48389.0,195.0,9.0,9/10,--,--,Non-Metro,Micropolitan,Micropolitan,Border,Non-Border,Texas,15976,3713,162
+195,Refugio,48391.0,196.0,11.0,11,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,6948,2577,137
+196,Roberts,48393.0,197.0,1.0,1,--,--,Non-Metro,Micropolitan,Non-core,Non-Border,Non-Border,Texas,854,311,39
+197,Robertson,48395.0,198.0,7.0,7,College Station-Bryan,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border,Texas,17074,6358,252
+198,Rockwall,48397.0,199.0,3.0,2/3,Dallas-Fort Worth-Arlington,Dallas-Plano-Irving MD,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border,Texas,104915,31649,294
+199,Runnels,48399.0,200.0,2.0,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,10264,3749,186
+200,Rusk,48401.0,201.0,4.0,4/5N,Longview,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border,Texas,54406,17960,461
+201,Sabine,48403.0,202.0,5.0,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,10542,4099,274
+202,San Augustine,48405.0,203.0,5.0,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,8237,3356,207
+203,San Jacinto,48407.0,204.0,5.0,4/5N,--,--,Non-Metro,Large Fringe Metro,Non-core,Non-Border,Non-Border,Texas,28859,9487,469
+204,San Patricio,48409.0,205.0,11.0,11,Corpus Christi,--,Metro,Medium Metro,Medium Metro,Non-Border,Non-Border,Texas,66730,23121,477
+205,San Saba,48411.0,206.0,7.0,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,6055,2104,142
+206,Schleicher,48413.0,207.0,9.0,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,2793,1105,91
+207,Scurry,48415.0,208.0,2.0,2/3,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,16703,5884,251
+208,Shackelford,48417.0,209.0,2.0,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,3265,1234,94
+209,Shelby,48419.0,210.0,5.0,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,25274,9292,291
+210,Sherman,48421.0,211.0,1.0,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,3022,1055,71
+211,Smith,48423.0,212.0,4.0,4/5N,Tyler,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border,Texas,232751,77195,855
+212,Somervell,48425.0,213.0,3.0,2/3,Dallas-Fort Worth-Arlington,Fort Worth-Arlington MD,Metro,Micropolitan,Large Fringe Metro,Non-Border,Non-Border,Texas,9128,3239,237
+213,Starr,48427.0,214.0,11.0,11,--,--,Non-Metro,Micropolitan,Micropolitan,Border,Border,Texas,64633,16238,451
+214,Stephens,48429.0,215.0,2.0,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,9366,3268,200
+215,Sterling,48431.0,216.0,9.0,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,1291,462,50
+216,Stonewall,48433.0,217.0,2.0,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,1350,582,80
+217,Sutton,48435.0,218.0,9.0,9/10,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border,Texas,3776,1484,134
+218,Swisher,48437.0,219.0,1.0,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,7397,2514,136
+219,Tarrant,48439.0,220.0,3.0,2/3,Dallas-Fort Worth-Arlington,Fort Worth-Arlington MD,Metro,Large Central Metro,Large Central Metro,Non-Border,Non-Border,Texas,2102515,698995,2215
+220,Taylor,48441.0,221.0,2.0,2/3,Abilene,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border,Texas,138034,49482,736
+221,Terrell,48443.0,222.0,9.0,9/10,--,--,Non-Metro,Noncore,Non-core,Border,Border,Texas,776,396,90
+222,Terry,48445.0,223.0,1.0,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,12337,4041,221
+223,Throckmorton,48447.0,224.0,2.0,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,1501,703,57
+224,Titus,48449.0,225.0,4.0,4/5N,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,32750,10694,250
+225,Tom Green,48451.0,226.0,9.0,9/10,San Angelo,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border,Texas,119200,43131,703
+226,Travis,48453.0,227.0,7.0,7,Austin-Round Rock,--,Metro,Large Central Metro,Large Central Metro,Non-Border,Non-Border,Texas,1273954,458484,1695
+227,Trinity,48455.0,228.0,5.0,4/5N,--,--,Non-Metro,Noncore,Micropolitan,Non-Border,Non-Border,Texas,14651,5918,297
+228,Tyler,48457.0,229.0,5.0,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,21672,7020,369
+229,Upshur,48459.0,230.0,4.0,4/5N,Longview,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border,Texas,41753,14036,363
+230,Upton,48461.0,231.0,9.0,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,3657,1305,83
+231,Uvalde,48463.0,232.0,8.0,8,--,--,Non-Metro,Micropolitan,Micropolitan,Border,Non-Border,Texas,26741,8683,268
+232,Val Verde,48465.0,233.0,8.0,8,--,--,Non-Metro,Micropolitan,Micropolitan,Border,Border,Texas,49025,15429,464
+233,Van Zandt,48467.0,234.0,4.0,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,56590,19615,441
+234,Victoria,48469.0,235.0,8.0,8,Victoria,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border,Texas,92084,32544,523
+235,Walker,48471.0,236.0,6.0,6/5S,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,72971,21636,861
+236,Waller,48473.0,237.0,6.0,6/5S,Houston-The Woodlands-Sugar Land,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border,Texas,55246,14807,422
+237,Ward,48475.0,238.0,9.0,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,11998,3956,159
+238,Washington,48477.0,239.0,7.0,7,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,35882,12381,562
+239,Webb,48479.0,240.0,11.0,11,Laredo,--,Metro,Small Metro,Medium Metro,Border,Border,Texas,276652,73659,627
+240,Wharton,48481.0,241.0,6.0,6/5S,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,41556,15256,327
+241,Wheeler,48483.0,242.0,1.0,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,5056,2254,96
+242,Wichita,48485.0,243.0,2.0,2/3,Wichita Falls,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border,Texas,132230,47951,768
+243,Wilbarger,48487.0,244.0,2.0,2/3,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border,Texas,12769,5263,205
+244,Willacy,48489.0,245.0,11.0,11,--,--,Non-Metro,Micropolitan,Micropolitan,Border,Border,Texas,21358,5810,205
+245,Williamson,48491.0,246.0,7.0,7,Austin-Round Rock,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border,Texas,590551,174754,948
+246,Wilson,48493.0,247.0,8.0,8,San Antonio-New Braunfels,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border,Texas,51070,15820,239
+247,Winkler,48495.0,248.0,9.0,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,8010,2572,125
+248,Wise,48497.0,249.0,3.0,2/3,Dallas-Fort Worth-Arlington,Fort Worth-Arlington MD,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border,Texas,69984,22080,336
+249,Wood,48499.0,250.0,4.0,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,45539,16531,455
+250,Yoakum,48501.0,251.0,1.0,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,8713,2676,138
+251,Young,48503.0,252.0,2.0,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border,Texas,18010,7105,259
+252,Zapata,48505.0,253.0,11.0,11,--,--,Non-Metro,Noncore,Micropolitan,Border,Border,Texas,14179,4405,257
+253,Zavala,48507.0,254.0,8.0,8,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border,Texas,11840,3509,138
